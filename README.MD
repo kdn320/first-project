@@ -1,2 +1,4 @@
-My first 
-# project
+# My First Project
+
+* Changed README
+* Updated .gitignore
